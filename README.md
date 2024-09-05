@@ -1,7 +1,7 @@
 Hi! My name is Sajin Rana 😄
 ========================================================================================================================================
 
-🌍 I am a Front-End Developer based in Yau Ma Tei, Hongkong.
+🌍 I am a Full-Stack Mern Developer based in Yau Ma Tei, Hongkong.
 <br/>
 
 ### Skills
